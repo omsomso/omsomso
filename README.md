@@ -5,7 +5,8 @@
 - 🏫 Student at 42Lausanne
 - 📔 Learning C, C++, JavaScript and many other things
 - 🎹 Allround audio person
-- 🌱 Passionate about creating virtual worlds
+- ❤️ Passionate about creating virtual worlds
+- 🌳 Nature enjoyer
 - 🤷🏻‍♂️ Just going with the flow!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
